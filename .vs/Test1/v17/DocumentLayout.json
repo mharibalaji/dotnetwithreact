@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|c:\\users\\hari balaji m\\documents\\tests\\test1\\test1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|solutionrelative:test1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|c:\\users\\hari balaji m\\documents\\tests\\test1\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|solutionrelative:test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|c:\\users\\hari balaji m\\documents\\tests\\test1\\test1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|solutionrelative:test1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|c:\\users\\hari balaji m\\documents\\tests\\test1\\test1\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|solutionrelative:test1\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|c:\\users\\hari balaji m\\documents\\tests\\test1\\test1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|solutionrelative:test1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|c:\\users\\hari balaji m\\documents\\tests\\test1\\test1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|solutionrelative:test1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|c:\\users\\hari balaji m\\documents\\tests\\test1\\test1\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E39DE-E9A8-49E8-A268-6E59882DFA73}|Test1\\Test1.csproj|solutionrelative:test1\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\appsettings.json",
+              "RelativeDocumentMoniker": "Test1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\appsettings.json",
+              "RelativeToolTip": "Test1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T16:43:02.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Test1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Test1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T17:02:17.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Test1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Test1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:39:52.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Test1\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Test1\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:35:11.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Test1\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Test1\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:30:33.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Program.cs",
+              "RelativeDocumentMoniker": "Test1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Program.cs",
+              "RelativeToolTip": "Test1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:24:14.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Test1\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test1\\Test1\\Models\\Task.cs",
+              "RelativeToolTip": "Test1\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:23:05.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -50,6 +50,7 @@ The application uses Entity Framework InMemory, so no database setup is required
 # Running the Application <br />
 Start both the frontend and backend servers. <br />
 The frontend will automatically interact with the backend API. <br />
+Use the username "admin" and password "password"
 
 # Dependencies <br />
 ## Frontend <br />
